@@ -64,7 +64,7 @@ Example output:
 
 <img width="601" height="471" alt="image" src="https://github.com/user-attachments/assets/a452599b-9a3a-4951-b87d-843b086d2062" />
 
-_*Figure 2 – Stock trend analysis chart generated using Yahoo Finance data._
+_Figure 2 – Stock trend analysis chart generated using Yahoo Finance data._
 
 ---
 
@@ -87,7 +87,9 @@ _*Figure 2 – Stock trend analysis chart generated using Yahoo Finance data._
 ## 👥 Team & Credits
 
 **Project Lead:** Tejas Solanki
+
 **Contributors:** Tejas Solanki, Sonu Kumar, Nirgun Joshi, Rupak Lipane, Rony Varghese
+
 **Special thanks:** Open source libraries and tools – pandas, scikit-learn, matplotlib, seaborn, nltk, TensorFlow, Streamlit
 
 
