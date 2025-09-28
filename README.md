@@ -57,7 +57,7 @@ The aim was to gain hands-on experience in data preprocessing, model building, e
 
 Example output:
 
-![Confusion Matrix]<img width="515" height="435" alt="image" src="https://github.com/user-attachments/assets/f09fd1e1-1197-4a0d-8a2d-1d19bf81a039" />
+<img width="515" height="435" alt="image" src="https://github.com/user-attachments/assets/f09fd1e1-1197-4a0d-8a2d-1d19bf81a039" />
 
 *Figure 1 – Model Evaluation Confusion Matrix*
 
