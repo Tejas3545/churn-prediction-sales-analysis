@@ -61,6 +61,11 @@ Example output:
 
 *Figure 1 – Model Evaluation Confusion Matrix*
 
+
+<img width="601" height="471" alt="image" src="https://github.com/user-attachments/assets/a452599b-9a3a-4951-b87d-843b086d2062" />
+
+_*Figure 2 – Stock trend analysis chart generated using Yahoo Finance data._
+
 ---
 
 ## Learning Outcomes
