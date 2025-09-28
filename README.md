@@ -59,6 +59,8 @@ Example output:
 
 ![Confusion Matrix](results/output_image_1.png)
 *Figure 1 – Model Evaluation Confusion Matrix*
+<img width="515" height="435" alt="image" src="https://github.com/user-attachments/assets/6771ec41-6385-4580-bf9e-e47a0633faba" />
+
 
 ![Sales Trends](results/output_image_2.png)
 *Figure 2 – Sales Analysis Visualization*
