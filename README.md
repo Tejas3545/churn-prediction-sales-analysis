@@ -42,9 +42,6 @@ The aim was to gain hands-on experience in data preprocessing, model building, e
 │   ├── output_image_2.png         # Sales analysis visualization
 │   ├── output_image_3.png         # Churn trend analysis
 │   └── output_image_4.png         # NLP/Chatbot demo
-├── report/
-│   ├── Tejas_Zidio_Project_Report.pdf
-│   └── Tejas_Zidio_Project_Report.docx
 ├── requirements.txt               # Dependencies
 ├── .gitignore                     # Ignore unnecessary files
 └── README.md                      # Project documentation
@@ -89,6 +86,7 @@ Example output:
 **Project Lead:** Tejas Solanki
 **Contributors:** Tejas Solanki, Sonu Kumar, Nirgun Joshi, Rupak Lipane, Rony Varghese
 **Special thanks:** Open source libraries and tools – pandas, scikit-learn, matplotlib, seaborn, nltk, TensorFlow, Streamlit
+
 
 ---
 
